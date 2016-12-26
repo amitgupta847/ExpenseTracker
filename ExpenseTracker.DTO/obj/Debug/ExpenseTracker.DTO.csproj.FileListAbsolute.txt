@@ -1,0 +1,5 @@
+P:\Amit\Web Development Jan 2017\Pluralsight\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.dll
+P:\Amit\Web Development Jan 2017\Pluralsight\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.pdb
+P:\Amit\Web Development Jan 2017\Pluralsight\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csprojResolveAssemblyReference.cache
+P:\Amit\Web Development Jan 2017\Pluralsight\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.dll
+P:\Amit\Web Development Jan 2017\Pluralsight\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.pdb

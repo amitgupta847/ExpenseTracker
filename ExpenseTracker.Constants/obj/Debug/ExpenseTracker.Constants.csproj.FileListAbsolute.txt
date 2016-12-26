@@ -1,0 +1,5 @@
+P:\Amit\Web Development Jan 2017\Pluralsight\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Constants\bin\Debug\ExpenseTracker.Constants.dll
+P:\Amit\Web Development Jan 2017\Pluralsight\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Constants\bin\Debug\ExpenseTracker.Constants.pdb
+P:\Amit\Web Development Jan 2017\Pluralsight\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Constants\obj\Debug\ExpenseTracker.Constants.csprojResolveAssemblyReference.cache
+P:\Amit\Web Development Jan 2017\Pluralsight\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Constants\obj\Debug\ExpenseTracker.Constants.dll
+P:\Amit\Web Development Jan 2017\Pluralsight\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Constants\obj\Debug\ExpenseTracker.Constants.pdb
